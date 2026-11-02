@@ -1,0 +1,8 @@
+numpy
+matplotlib
+openneuro-py
+mne
+mne-bids
+scipy
+torch
+torchvision
