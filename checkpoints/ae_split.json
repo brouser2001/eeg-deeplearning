@@ -1,0 +1,26 @@
+{
+  "train": [
+    "data/processed_data_11.pt",
+    "data/processed_data_7.pt",
+    "data/processed_data_20.pt",
+    "data/processed_data_12.pt",
+    "data/processed_data_15.pt",
+    "data/processed_data_9.pt",
+    "data/processed_data_6.pt",
+    "data/processed_data_16.pt",
+    "data/processed_data_18.pt",
+    "data/processed_data_19.pt",
+    "data/processed_data_14.pt",
+    "data/processed_data_10.pt",
+    "data/processed_data_5.pt",
+    "data/processed_data_4.pt"
+  ],
+  "val": [
+    "data/processed_data_2.pt",
+    "data/processed_data_1.pt",
+    "data/processed_data_8.pt"
+  ],
+  "test": [
+    "data/processed_data_3.pt"
+  ]
+}

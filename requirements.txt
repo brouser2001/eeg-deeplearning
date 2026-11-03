@@ -6,3 +6,4 @@ mne-bids
 scipy
 torch
 torchvision
+tensorboard
