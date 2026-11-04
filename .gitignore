@@ -1,4 +1,5 @@
 data/
+data32/
 ds007169/
 # ---> JupyterNotebooks
 # gitignore template for Jupyter Notebooks
